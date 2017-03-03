@@ -1,1 +1,1 @@
-[编码规范](https://github.com/junruchen/standards/wiki)
+[建议编码规范](https://github.com/junruchen/standards/wiki)
